@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Flight Booking Suite">
+
+    <listeners>
+        <listener class-name="utils.ExtentReportNG"/>
+    </listeners>
+
+    <test name="Booking Test">
+        <classes>
+            <class name="tests.TravelAgencyTest"/>
+        </classes>
+    </test>
+</suite>

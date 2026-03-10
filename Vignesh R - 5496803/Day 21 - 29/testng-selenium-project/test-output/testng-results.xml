@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-23T15:28:51 IST" name="Default suite" finished-at="2026-02-23T15:28:51 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2026-02-23T15:28:51 IST" name="Default test" finished-at="2026-02-23T15:28:51 IST" duration-ms="79">
+      <class name="com.vignesh.tests.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="setUp" finished-at="2026-02-23T15:28:51 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="beforeMethod" finished-at="2026-02-23T15:28:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testAddition()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="testAddition" finished-at="2026-02-23T15:28:51 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="afterMethod" finished-at="2026-02-23T15:28:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="beforeMethod" finished-at="2026-02-23T15:28:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testString()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="testString" finished-at="2026-02-23T15:28:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testString -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="afterMethod" finished-at="2026-02-23T15:28:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vignesh.tests.FirstTest@79079097]" started-at="2026-02-23T15:28:51 IST" name="tearDown" finished-at="2026-02-23T15:28:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vignesh.tests.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
